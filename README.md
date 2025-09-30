@@ -51,10 +51,10 @@ Construir uma API para gerenciar **Consultas** e **Serviços Adicionais**, obede
 ## Diferenciais
 - Laravel Resources para padronizar respostas da API  
 - Validação completa de dados com Form Requests  
-- Notificações via e-mail usando filas (Redis)  
-- Documentação da API (Swagger ou Postman Collection)  
+- Notificações via e-mail usando filas (Redis ou RabbitMQ)  
+- Documentação da API 
 - Tratamento de exceções e erros de negócio de forma centralizada  
-- Testes automatizados obrigatórios (unitários e/ou integração) 
+- Testes automatizados (unitários e/ou integração) 
 ---
 
 ## Entrega
